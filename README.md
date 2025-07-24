@@ -63,3 +63,8 @@ Seed işlemiyle birlikte aşağıdaki kullanıcı otomatik olarak oluşturulur:
 
 - API uç noktaları ve örnek istekler için `Postman` koleksiyonu kullanabilirsiniz.
 - Geliştirme ortamında sorun yaşarsanız, öncelikle `php artisan migrate:fresh --seed` komutunu çalıştırarak veritabanını sıfırlayabilirsiniz.
+
+## Admin Panel User Giriş Bilgileri
+   - email: batin@gmail.com
+   - password: batin123
+
